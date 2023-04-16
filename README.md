@@ -1,4 +1,4 @@
-# SI_Pakar_Autisme
+# Sistem Informasi Pakar Deteksi Autisme pada Anak
 <h2>Nama  : Mukhammad Zainul Musyafa'</h2>
 <h2>NIM   : 2118050</h2>
 <p>berikut merupakan gambaran relasi antar tabel dari database SI Pakar Autisme</p>
